@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">USIU Campus Events</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="email_hint">Enter Email Address</string>
+    <string name="GenderText">Select Gender</string>
+    <string name="RadioMale">Male</string>
+    <string name="RadioFemale">Female</string>
+    <string name="RadioOthers">Others</string>
+    <string name="textview_info">Click here to Sign Up</string>>
+</resources>
